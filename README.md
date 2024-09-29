@@ -9,7 +9,7 @@ I am interested extracting insights about goal-oriented, strategic behaviors fro
 - Machine Learning, Data Visualization
 - Graduate-Level Instructor, Technical Mentorship, Project Management
 
-## My Projects
+## Project Highlights 🌟
 🔭 I’m currently working on ...
 - [Selection, Training, or Design? Improving airport security screening](https://github.com/audreysiqiliu/three-factors-of-behavior)
 - [Clickstream data analysis in visual search task](https://github.com/audreysiqiliu/Visual-Search-Patterns)
