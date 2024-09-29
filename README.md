@@ -1,4 +1,4 @@
-# Hello, I am Audrey Siqi-Liu 👋
+# Hello, I'm Audrey 👋
 
 I am a postdoctoral human behavior researcher and data science expert at the George Washington University. I recently completed my PhD in Cognitive Neuroscience at Duke University, where I studied cognitive flexibility. Now, I work with the Drs. Stephen Mitroff and Dwight Kravitz at George Washington University and Dr. Kelvin S. Oie from the DEVCOM Army Research Laboratory on questions about individual differences in task performance, human-AI collaboration, and visual cognition.
 
