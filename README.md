@@ -11,7 +11,7 @@ I am interested extracting insights about goal-oriented, strategic behaviors fro
 
 ## Project Highlights 
 🔭 I’m currently working on ...
-- [Selection, Training, or Design? Improving airport security screening](https://github.com/audreysiqiliu/three-factors-of-behavior)
+- [Personnel Selection, Training, or UI Design? Improving airport security screening](https://github.com/audreysiqiliu/three-factors-of-behavior)
 - [Clickstream data analysis in visual search task](https://github.com/audreysiqiliu/Visual-Search-Patterns)
 
 ⛳️ Completed non-work projects ...
