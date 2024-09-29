@@ -6,7 +6,8 @@ I am interested extracting insights about goal-oriented, strategic behaviors fro
 
 ## Skills
 - Python, Javascript, HTML/CSS, SQL, Tableau
-- Machine Learning, Data Visualizat
+- Machine Learning, Data Visualization
+- Graduate-Level Instructor, Technical Mentorship, Project Management
 
 ## My Projects
 🔭 I’m currently working on ...
