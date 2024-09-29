@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I am a postdoctoral human behavior researcher and data science expert at the George Washington University. I recently completed my PhD in Cognitive Neuroscience at Duke University, where I studied cognitive flexibility. Now, I work with the Drs. Stephen Mitroff and Dwight Kravitz at George Washington University and Dr. Kelvin S. Oie from the DEVCOM Army Research Laboratory on questions about individual differences in task performance, human-AI collaboration, and visual cognition.
+I am a postdoctoral human behavior researcher and data science expert at the George Washington University. I recently completed my PhD in Cognitive Neuroscience at Duke University, where I studied cognitive flexibility with Dr. Tobias Egner. Now, I work with the Drs. Stephen Mitroff and Dwight Kravitz at George Washington University and Dr. Kelvin S. Oie from the DEVCOM Army Research Laboratory on questions about individual differences in task performance, human-AI collaboration, and visual cognition.
 
 I am interested extracting insights about goal-oriented, strategic behaviors from noisy real-world data. My work combines evidence-based experimental design, machine-learning analysis approaches, and interactive data visualizations.
 
