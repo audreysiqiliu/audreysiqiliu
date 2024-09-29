@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I am Audrey Siqi-Liu 👋
 
-<!--
-**audreysiqiliu/audreysiqiliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a postdoctoral human behavior researcher and data science expert at the George Washington University. I recently completed my PhD in Cognitive Neuroscience at Duke University, where I studied cognitive flexibility. Now, I work with the Drs. Stephen Mitroff and Dwight Kravitz at George Washington University and Dr. Kelvin S. Oie from the DEVCOM Army Research Laboratory on questions about individual differences in task performance, human-AI collaboration, and visual cognition.
 
-Here are some ideas to get you started:
+I am interested extracting insights about goal-oriented, strategic behaviors from noisy real-world data. My work combines evidence-based experimental design, machine-learning analysis approaches, and interactive data visualizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python, Javascript, HTML/CSS, SQL, Tableau
+- Machine Learning, Data Visualizat
+
+## My Projects
+🔭 I’m currently working on ...
+- [Selection, Training, or Design? Improving airport security screening] (https://github.com/audreysiqiliu/three-factors-of-behavior)
+-  [Clickstream data analysis in visual search task] (https://github.com/audreysiqiliu/Visual-Search-Patterns)
+
+### Other
+- 🌱 I’m learning LLMs, PowerBI
+- 💬 Ask me about python/javascript, experimental design, behavioral data modeling
+- 📫 How to reach me: audrey.liu@gwu.edu
