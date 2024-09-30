@@ -12,7 +12,7 @@ I am interested extracting insights about goal-oriented, strategic behaviors fro
 ## Project Highlights 
 🔭 I’m currently working on ...
 - [Personnel Selection, Training, or UI Design? Improving airport security screening](https://github.com/audreysiqiliu/three-factors-of-behavior)
-- [Clickstream data analysis in visual search task](https://github.com/audreysiqiliu/Visual-Search-Patterns)
+- [Clickstream data ireveals different visual search strategies](https://github.com/audreysiqiliu/Visual-Search-Patterns)
 
 ⛳️ Completed non-work projects ...
 - [Tableau: Health-Care Outcome Disparities in LA Hospital Readmission Rates](https://public.tableau.com/app/profile/audrey.liu/viz/DS4A_ProjectTeam20_DataFolio/Dashboard)
